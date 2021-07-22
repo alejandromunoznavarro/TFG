@@ -32,7 +32,7 @@ As for its implementation, everything that has been developed in this work has b
 
 **Key words**
 
-Photography, Editing, Images, Style Transfer.4
+Photography, Editing, Images, Style Transfer.
 
 # Bibliografía
 [1] Frédo Durand Soonmin Bae Sylvain Paris. Two-scale Tone Management for Photographic Look. Inf. téc. Computer Science y Artificial Intelligence Laboratory, Massuchusetts Institute of Technology. url: https://people.csail.mit.edu/soonmin/photolook/.
